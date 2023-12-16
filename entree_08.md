@@ -6,7 +6,7 @@ Durée: 8 à 10 minutes
 Le projet consiste à créer un jeu vidéo qui montrera la réalité sur les enjeux environnementaux et sensibilisera les gens à ce sujet.
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+
 
 ### Technologies
 intelligence artifficiel, programmation, realite virtuelle, moteurs de jeux
